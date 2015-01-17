@@ -1,3 +1,10 @@
+
+Twenty Fifteen theme based on Google's material design.
+V 1.0
+By Hercus Monte https://twitter.com/hercusmonte
+More updates at http://materialdesignblog.com
+
+WP credits:
 === Twenty Fifteen ===
 Contributors: the WordPress team
 Tags: black, blue, gray, pink, purple, white, yellow, dark, light, two-columns, left-sidebar, fixed-layout, responsive-layout, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
@@ -8,7 +15,8 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-Our 2015 default theme is clean, blog-focused, and designed for clarity. Twenty Fifteen's simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer.
+Our 2015 default theme is clean, blog-focused, and designed for clarity.
+Twenty Fifteen's simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer.
 
 * Responsive Layout
 * Custom Colors
@@ -90,3 +98,6 @@ Twenty Fifteen sports a menu design that's easy to navigate -- especially when y
 1. The main content width is 660px.
 2. The sidebar width is 248px.
 3. Featured Images are 825px wide by 510px high.
+
+
+
