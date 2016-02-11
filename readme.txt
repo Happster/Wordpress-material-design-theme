@@ -4,7 +4,7 @@ Template uses the Material Design Bootstrap theme by Federico Zivolo to get all 
 Inspired by MaterialWP design by Brad Williams.
 V 1.0
 By Hercus Monte https://twitter.com/hercusmonte
-More updates at http://materialdesignblog.com
+More updates at http://wordpressmaterialdesign.com
 MaterialWP: http://materialwp.com
 Material Bootstrap: http://fezvrasta.github.io/bootstrap-material-design/
 WP credits:
