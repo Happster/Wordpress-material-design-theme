@@ -3,7 +3,7 @@ Twenty Fifteen theme based on Google's material design.
 Template uses the Material Design Bootstrap theme by Federico Zivolo to get all the material design features combined with the Bootstrap framework. 
 Inspired by MaterialWP design by Brad Williams.
 V 1.0
-By Hercus Monte https://twitter.com/hercusmonte
+By Mantas Malukas https://twitter.com/mantasmalukas
 More updates at http://wordpressmaterialdesign.com
 MaterialWP: http://materialwp.com
 Material Bootstrap: http://fezvrasta.github.io/bootstrap-material-design/
